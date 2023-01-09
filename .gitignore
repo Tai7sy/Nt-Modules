@@ -1,2 +1,4 @@
 # header file
 *.h
+*.idb
+*.i64
